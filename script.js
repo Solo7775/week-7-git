@@ -86,3 +86,5 @@ async function loadCountryInfo(countryName) {
     alert('Error loading country information. Please try again.');
   }
 }
+
+console.log("Small change from A branch");
